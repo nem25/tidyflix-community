@@ -12,7 +12,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Run `tidyflix` in '...'
+1. Run `tidyflix` in your terminal
 2. Select '...'
 3. See error
 
